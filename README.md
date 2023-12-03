@@ -5,7 +5,7 @@ The campaign is initially divided into three paths, true, standard, and tech acc
 
 **How To Play**
 
-[Visit our Discord](https://discord.gg/accchampcommunity) for more information and to earn rewards for your progress through the campaign!
+[Visit our Discord](https://discord.gg/zd8W4rr) for more information and to earn rewards for your progress through the campaign!
 
 Find [the release](https://github.com/accsaber/ACC-Campaign/releases) that works for your Beat Saber version and download the zip. Just put it in your Beat Saber folder and extract it, that's all.
 
